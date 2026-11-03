@@ -1,5 +1,7 @@
 #  Discord Ticket Bot
 
+If you have problem for bots you can directly dm me on discord 
+
 A feature-rich, modular, and fully automated Discord Ticket Management Bot built with **Discord.js v14**. Designed for gaming communities, digital stores, and support teams.
 
 ---
