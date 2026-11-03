@@ -4,7 +4,7 @@ A feature-rich, modular, and fully automated Discord Ticket Management Bot built
 
 ---
 
-##  Features
+##  Key Features
 
 ###  1. Dynamic Purchase Flow
 - **Product & Duration Selection:** Reads products and pricing directly from `settings.txt`. Users can select up to 5 products and customize durations for each.

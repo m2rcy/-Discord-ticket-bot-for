@@ -1,0 +1,74 @@
+[
+  {
+    "createdAt": "2026-09-29T23:42:41.053Z",
+    "locale": "tr",
+    "ownerId": "1474932300071436419",
+    "staffId": "1474932300071436419",
+    "ticketChannelId": "1554639540935987290",
+    "score": 4,
+    "reason": ""
+  },
+  {
+    "createdAt": "2026-09-29T23:42:53.085Z",
+    "locale": "tr",
+    "ownerId": "1474932300071436419",
+    "staffId": "1474932300071436419",
+    "ticketChannelId": "1554639540935987290",
+    "score": 5,
+    "reason": ""
+  },
+  {
+    "createdAt": "2026-09-29T23:49:41.360Z",
+    "locale": "tr",
+    "ownerId": "1074683792394047488",
+    "staffId": "1474932300071436419",
+    "ticketChannelId": "1554641281785798786",
+    "score": 5,
+    "reason": ""
+  },
+  {
+    "createdAt": "2026-10-06T22:45:16.475Z",
+    "locale": "en",
+    "ownerId": "811597317626658877",
+    "staffId": "1474932300071436419",
+    "ticketChannelId": "1557160899578437665",
+    "score": 5,
+    "reason": ""
+  },
+  {
+    "createdAt": "2026-10-06T23:07:32.633Z",
+    "locale": "en",
+    "ownerId": "1074683792394047488",
+    "staffId": "1474932300071436419",
+    "ticketChannelId": "1555557578593927220",
+    "score": 2,
+    "reason": "not to good"
+  },
+  {
+    "createdAt": "2026-10-17T13:26:35.705Z",
+    "locale": "en",
+    "ownerId": "811597317626658877",
+    "staffId": "1474932300071436419",
+    "ticketChannelId": "1561007158399737897",
+    "score": 5,
+    "reason": ""
+  },
+  {
+    "createdAt": "2026-10-17T13:27:15.565Z",
+    "locale": "en",
+    "ownerId": "811597317626658877",
+    "staffId": "1474932300071436419",
+    "ticketChannelId": "1561007158399737897",
+    "score": 3,
+    "reason": "1111"
+  },
+  {
+    "createdAt": "2026-10-17T13:42:37.495Z",
+    "locale": "en",
+    "ownerId": "811597317626658877",
+    "staffId": "1474932300071436419",
+    "ticketChannelId": "1561007158399737897",
+    "score": 5,
+    "reason": ""
+  }
+]
